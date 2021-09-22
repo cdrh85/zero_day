@@ -1,1 +1,2 @@
-thub 02 paso:
+os del comit
+cambios al commit
